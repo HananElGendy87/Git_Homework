@@ -1,0 +1,4 @@
+
+Today is my first day studying Git
+
+I finished day one
